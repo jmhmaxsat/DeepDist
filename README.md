@@ -12,7 +12,7 @@ git clone https://github.com/jmhmaxsat/DeepDist.git
 cd DeepDist
 make
 ```
-
+ 
 After compilation, an executable file named DeepDist will be available in the DeepDist directory.
 To run the algorithm, use the following command: `./starexec_run-runsolver.sh instance_name`.
 
